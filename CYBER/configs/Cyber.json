@@ -17,7 +17,7 @@
   "allowInbox": false,
   "adminOnly": false,
   "autoCreateDB": true,
-  "encryptSt": true,
+  "encryptSt": false,
   "version": "4.0.0",
   "logs": {
     "enable": true
@@ -71,3 +71,4 @@
     "cooldownTime": 1200000
   }
 }
+ 
